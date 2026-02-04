@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: hfradar
+Version: 0.1.1
+Summary: High Frequency Radar Data Processing Library
+Author: Andrew Zulberti
+Author-email: andrew.zulberti@gmail.com
+License: unlicensed to all but author
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: netCDF4
+Requires-Dist: scipy
+Requires-Dist: xarray
+Requires-Dist: utm
+Requires-Dist: pyshp
+Requires-Dist: gpxpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary
